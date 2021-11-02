@@ -8,8 +8,8 @@ android {
     applicationId "com.rilixtech.countrycodepicker"
     minSdkVersion 14
     targetSdkVersion 30
-    versionCode 242
-    versionName '2.4.2'
+    versionCode 243
+    versionName '2.4.3'
   }
   buildTypes {
     release {
